@@ -70,6 +70,9 @@ Outline: SkinnyTasteOneAndDone
                        squeeze out any excess liquid.
                 -  [ ] Place each piece of chicken between two sheets
                        of plastic wrap.
+                -  [ ] Using a rolling pin, gently pound each piece
+                       until it is about 1/2 inch thick.
+                -  [ ] 
             -   0% Serving/Presentation Tools
                 -  [ ] Dinner Plates
                 -  [ ] Forks
