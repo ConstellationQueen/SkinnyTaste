@@ -1,0 +1,301 @@
+Outline: SkinnyTasteOneAndDone
+-   0% - SkinnyTasteOneAndDone ISBN: 978-0-525-61628-3
+    -   0% - Skillet pgs 020-071 (052), 25 recipes
+        -   0% 01/25 Fiesta Chicken and Carrot "Rice" pg 022
+            -   0% Info
+                -  [ ] Time(s)
+                -  [ ] Quick, Gluten Free
+                -  [ ] I love turning veggies into "rice".
+                -   0% Nutrition Stats
+                    -  [ ] 1 piece of chicken + 1 C veggies
+                    -  [ ] Calories: 451
+                    -  [ ] Fat: 17.5 g
+                    -  [ ] Saturated Fat: 6.5 g
+                    -  [ ] Cholesterol: 99 mg
+                    -  [ ] Carbohydrate: 40 g
+                    -  [ ] Fiber: 11.5 g
+                    -  [ ] Protein: 37g
+                    -  [ ] Sugars: 10g
+                    -  [ ] Sodium: 993mg
+                -  [ ] Exercise Burnoff
+                -  [ ] Kissing the Chef
+            -   0% Ingredients
+                -   0% For Cooking
+                    -  [ ] 14 ozs of carrots, 5 medium or 3/4 large
+                           Peeled and cut into 1-inch pieces
+                    -  [ ] 2 boneless, skinless chicken breasts, 8 ozs
+                           each cut in half crosswise
+                    -  [ ] 1-1/2 t Kosher Salt
+                    -  [ ] 1/4 t Garlic Powder
+                    -  [ ] Freshly ground black pepper
+                    -  [ ] Olive Oil Spray
+                    -  [ ] 2 t Olive Oil
+                    -  [ ] 1 C Chopped White Onion
+                    -  [ ] 1 small fresh jalapeno pepper, seeded and
+                           minced
+                    -  [ ] 1/2 small fresh jalapeno pepper, thinly
+                           sliced
+                    -  [ ] 2 garlic cloves, minced
+                    -  [ ] 1-1/2 C corn kernels, fresh or frozen
+                    -  [ ] 1 C canned black beans, * rinsed and
+                           drained
+                    -  [ ] 2 t Chopped fresh cilantro
+                    -  [ ] Juice of 1/2 lime
+                    -  [ ] 4 t jarred salsa
+                    -  [ ] 4 slices pepper Jack cheese (21 grams each)
+                -   0% For Serving
+                    -  [ ] 1/4 Chopped fresh tomatoes
+                    -  [ ] 2 t chopped fresh cilantro
+                    -  [ ] 2 t chopped scallions
+                    -  [ ] 4 ozs diced avocado (from 1 small Haas)
+                -  [ ] * Read label to be sure this product is
+                       gluten-free.
+            -   0% Food Prep Tools
+                -  [ ] Chef's Knife
+                -  [ ] Food Processor
+                -  [ ] Tablespoon
+                -  [ ] teaspoon
+                -  [ ] 1/2 teaspoon
+                -  [ ] 1/4 teaspoon
+                -  [ ] Cup
+                -  [ ] 1/2 Cup
+                -  [ ] 4 ounces
+            -   0% Cooking Tools, Pots and Pans
+                -  [ ] Skillet
+            -   0% Cooking Instructions
+                -  [ ] In a food processor, working in small batches,
+                       pulse the carrots a few times until they
+                       resemble grains of rice (don't overprocess).
+                -  [ ] Spoon the carrots into a kitchen towel and
+                       squeeze out any excess liquid.
+                -  [ ] Place each piece of chicken between
+            -   0% Serving/Presentation Tools
+                -  [ ] Dinner Plates
+                -  [ ] Forks
+                -  [ ] Napkins
+            -   0% Cleanup Process
+                -  [ ] Bus dishes
+                -  [ ] Wash Dishes
+                -  [ ] Sweep Floor
+            -  [ ] Notes
+            -  [ ] Background TV, Music, Noise, Conversation Topics
+            -  [ ] Grocery List
+            -  [ ] Pantry List
+        -  [ ] - 02/25 Chicken Cordon Bleu with Asparagus             
+               025
+        -  [ ] - 03/25 Lemon Chicken and Brown Rice Pilaf             
+               026
+        -  [ ] 0425 Spicy Stir-Fried Chkn & Shredded Brussels Bowls   
+               029
+        -  [ ] - 05/25 Bacon-Wrapped BBQ Ranch Chicken Salad.         
+               030
+        -  [ ] - 06/25 Chicken Saltimbocca with Spinach.              
+               033
+        -  [ ] - 07/25 Weeknight Chicken Souvlaki                     
+               034
+        -  [ ] - 08/25 Mom's Skillet Chicken Pot Pie                  
+               037
+        -  [ ] - 09/25 Cheesy Turkey, Leek, and Potato Gratin         
+               038
+        -  [ ] - 10/25 Shepherd's Pie with Cauliflower Crust          
+               041
+        -  [ ] - 11/25 Pork Chops Pizzaiola with Arugula Salad        
+               042
+        -  [ ] - 12/25 Cheesy Pork Chops with Mushrooms and Wilted
+               Spinach                 045
+        -  [ ] - 13/25 Shrimp Quesadillas with Stuffed Avocados       
+               046
+        -  [ ] - 14/25 Summer Veggie Zucchini Noodles with Burrata    
+               049
+        -  [ ] - 15/25 Garlicky Shrimp with Smashed Chickpea "Mofongo"
+               050
+        -  [ ] - 16/25 Seafood and Chicken Paella                     
+               051
+        -  [ ] - 17/25 Seafood Fried Brown Rice                       
+               055
+        -  [ ] - 18/25 Jalapeno Popper Frittata with Pico de Gallo    
+               056
+        -  [ ] - 19/25 Spicy Carrot "Fideos" Secos                    
+               059
+        -  [ ] - 20/25 Beef Bibimbap Bowls with Riced Carrots         
+               060
+        -  [ ] - 21/25 Skillet Spinach and Feta Pie                   
+               063
+        -  [ ] - 22/25 Veggie-Loaded Zucchini Noodle Primavera        
+               064
+        -  [ ] - 23/25 Mediterranean Shrimp and Pearl Couscous        
+               067
+        -  [ ] - 24/25 Lazy Veggie Lasagna                            
+               068
+        -  [ ] - 25/25 Open-Faced French Onion Burgers                
+               071
+    -   0% - Sheet Pan & Baking Dish                                  
+           072
+        -  [ ] - 01/23 Crispy Chicken Schnitzel Dinner                
+               075
+        -  [ ] - 02/23 Spicy Peanut Chicken and Vegetables            
+               076
+        -  [ ] - 03/23 Dijon-Maple Chicken with Brussels and Butternut
+               079
+        -  [ ] - 04/23 Chicken Fajitas                                
+               080
+        -  [ ] - 05/23 Caprese Portobello Pizzas                      
+               083
+        -  [ ] - 06/23 Tandoori Chicken with Vegetables               
+               085
+        -  [ ] - 07/23 Honey-Mustard Chicken Bake                     
+               086
+        -  [ ] - 08/23 Roasted Sausage, Peppers, and Potatoes         
+               089
+        -  [ ] - 09/23 Ginger-Lime Chicken with Broccoli and Carrots  
+               090
+        -  [ ] - 10/23 Spinach, Bacon, and Cheddar Hasselback Chicken 
+               093
+        -  [ ] - 11/23 Giant Turkey Meatball Parmesan                 
+               094
+        -  [ ] - 12/23 Petite Meatloaf Dinner                         
+               097
+        -  [ ] - 13/23 Garlic-Dijon Roasted Pork Tenderloin with
+               Potatoes and Green Beans  098
+        -  [ ] - 14/23 Dad's Czech Meat Patties with Potatoes and
+               Cucumber Salad           101
+        -  [ ] - 15/23 Carne Asada Fries                              
+               102
+        -  [ ] - 16/23 Garlic-Turmeric Salmon with Rainbow Carrots,
+               Cauliflower, and Lemon 105
+        -  [ ] - 17/23 Lemon-Roaster Fish and Cauli-Rice 106
+        -  [ ] - 18/23 Miso Black Cod with Shiitakes and Bok Choy 109
+        -  [ ] - 19/23 Pesce Primavera 110
+        -  [ ] - 20/23 Crab-Stuffed Shrimp 113
+        -  [ ] - 21/23 Lemon Parmesan Shrimp with Broccoli and
+               Cauliflower 114
+        -  [ ] - 22/23 Curry-Roasted Vegetables and Chickpeas with
+               Mint-Cilantro Chutney 117
+        -  [ ] - 23/23 Cacio e Pepe Roasted Spaghetti Squash 118
+    -   0% - Pressure Cooker 120
+        -  [ ] - 01/24 Colombian Chicken and Potato Soup 123
+        -  [ ] - 02/24 Arroz con Pollo 124
+        -  [ ] - 03/24 Chicken and Lentil Soup 127
+        -  [ ] - 04/24 Coq au Vin 128
+        -  [ ] - 05/24 Shortcut Vietnamese Chicken Pho 131
+        -  [ ] - 06/24 White Chicken Chili with Hominy 132
+        -  [ ] - 07/24 Coconut Chicken and Butternut Curry in a Hurry
+               135
+        -  [ ] - 08/24 Chicken Tortilla Soup 136
+        -  [ ] - 09/24 Turkey Breast with Sweet Potatoes, Green Beans,
+               and Gravy 139
+        -  [ ] - 10/24 Turkey Cheeseburger Soup 140
+        -  [ ] - 11/24 Instant Spaghetti and Meat Sauce 143
+        -  [ ] - 12/24 Navy Bean, Bacon, and Spinach Soup 144
+        -  [ ] - 13/24 Quickest Gnocchi Bolognese 147
+        -  [ ] - 14/24 Caldo de Papa (Potato and Short Rib Soup) 148
+        -  [ ] - 15/24 Beef Stroganoff Noodle Soup 151
+        -  [ ] - 16/24 American-Style Cheesy Beef Goulash and Macaroni
+               152
+        -  [ ] - 17/24 Beef, Tomato, and Acini di Pepe Soup 155
+        -  [ ] - 18/24 Easy Lamb Stew with Chickpeas 156
+        -  [ ] - 19/24 Unstuffed Cabbage Bowls 157
+        -  [ ] - 20/24 Salmon Salad with Green Beans and Egg 159
+        -  [ ] - 21/24 Stuffed Artichokes with Bread Crumbs and Tomato
+               Caper Sauce 160
+        -  [ ] - 22/24 Tomato-Spinach Tortellini Soup 162
+        -  [ ] - 23/24 Mexican Pinto Beans with Queso 165
+        -  [ ] - 24/24 Pot-in-Pot Puerto Rican Rice and Beans 166
+    -   0% - Air Fryer 168
+        -  [ ] - 01/23 Buffalo Drumsticks with Creamy Cabbage and Kale
+               Slaw 171
+        -  [ ] - 02/23 Chicken Katsu with Sesame-Pineapple Slaw 172
+        -  [ ] - 03/23 Spicy Fried Chicken Sandwiches 175
+        -  [ ] - 04/23 Everything (but the) Bagel Chicken Roll-Ups 176
+        -  [ ] - 05/23 Glazed Korean BBQ Chicken Wings 179
+        -  [ ] - 06/23 Chicken, Pesto, and Cheese Stromboli 180
+        -  [ ] - 07/23 Nuggets Three Ways 183
+        -  [ ] - 08/23 Classic Chicken Nuggets 183
+        -  [ ] - 09/23 Buffalo Chicken Nuggets 184
+        -  [ ] - 10/23 Breaded Cauliflower Nuggets 184
+        -  [ ] - 11/23 Cheesy Jalapeno Popper Stuffed Chicken 186
+        -  [ ] - 12/23 Italian Sausage and Pepper Calzones 189
+        -   0% 1323 Crispy Breaded Pork Chops 190
+            -   0% Stats
+                -  [ ] Serving Size: 1 pork chop
+                -  [ ] Calories: 263
+                -  [ ] Fat: 10.5g
+                -  [ ] Saturated Fat: 3.5g
+                -  [ ] Cholesterol: 110mg
+                -  [ ] Carbohydrate: 6g
+                -  [ ] Fiber: 0.5g
+                -  [ ] Protein: 33g
+                -  [ ] Sugars: 0.5g
+                -  [ ] Sodium: 359mg
+        -  [ ] - 14/23 Philly Cheesesteak Egg Rolls 193
+        -  [ ] - 15/23 London Broil with Tomatoes, Red Onion, and
+               Balsamic 194
+        -  [ ] - 16/23 Crispy Beach Fish Tacos 197
+        -  [ ] - 17/23 Wild Salmon with Avocado-Basil Salad 198
+        -  [ ] - 18/23 Crispy Salmon Fish Sticks with Lime-Dill
+               Dipping Sauce 201
+        -  [ ] - 19/23 Breaded Popcorn Shrimp with Tartar Sauce 202
+        -  [ ] - 20/23 Shrimp and Pork Spring Rolls with
+               Carrot-Cabbage Slaw 205
+        -  [ ] - 21/23 Spicy Shrimp Tempura Roll Bowls 206
+        -  [ ] - 22/23 Crispy Codfish Cakes with Horseradish Cream 208
+        -  [ ] - 23/23 Margherita Pizzas 209
+    -   0% - Dutch Oven 212
+        -  [ ] - 01/15 Creamy Butternut Pasta with Spicy Sausage and
+               Spinach 215
+        -  [ ] - 02/15 Gnocchi with Sausage and Garlicky Broccoli Rabe
+               216
+        -  [ ] - 03/15 Chicken Fajita Pasta 219
+        -  [ ] - 04/15 Mini Turkey Meatball Vegetable Soup 220
+        -  [ ] - 05/15 Cheesy Turkey Taco Chili Mac 223
+        -  [ ] - 06/15 Shepherd's Pie Stew 224
+        -  [ ] - 07/15 Kielbasa and Cabbage 227
+        -  [ ] - 08/15 Caramelized Onion Soup with Cauliflower and
+               Melted Gruyere 228
+        -  [ ] - 09/15 Bacalao (Salt Cod) and Potato Stew 231
+        -  [ ] - 10/15 Mussel Chowder with Bacon 232
+        -  [ ] - 11/15 Mussels in Garlicky White Wine Sauce 235
+        -  [ ] - 12/15 Milda's Caldeirada (Portuguese Seafood Stew)
+               236
+        -  [ ] - 13/15 Chinese Shrimp and Pork Dumpling Meatball Soup
+               239
+        -  [ ] - 14/15 Shrimp Jambalaya 240
+        -  [ ] - 15/15 Creamy Cheddar-Broccoli Soup 242
+    -   0% - Slow Cooker 244
+        -  [ ] - 01/17 Loaded Buffalo Chicken Stuff Sweet Potatoes 247
+        -  [ ] - 02/17 Complete BBQ Chicken Dinner 248
+        -  [ ] - 03/17 Fall-off-the-Bone Whole Rosemary Chicken 251
+        -  [ ] - 04/17 Chipotle Chicken Tostadas 252
+        -  [ ] - 05/17 Italian Stuffed Cubanelle Peppers 255
+        -  [ ] - 06/17 Asian Chicken Lettuce Wraps 256
+        -  [ ] - 07/17 Ham and White Bean Soup 257
+        -  [ ] - 08/17 Split Pea Soup with Smoked Turkey 258
+        -  [ ] - 09/17 Tex-Mex Turkey Tacos 261
+        -  [ ] - 10/17 Pot Roast with Potatoes and Vegetables 262
+        -  [ ] - 11/17 Southwestern Beef and Black Bean Soup 264
+        -  [ ] - 12/17 Chunky Brisket and Cabbage Soup 265
+        -  [ ] - 13/17 Ropa Vieja 267
+        -  [ ] - 14/17 Spicy Lamb Korma 268
+        -  [ ] - 15/17 Spinach and Cheese Manicotti 271
+        -  [ ] - 16/17 Vegetarian Butternut Chili 272
+        -  [ ] - 17/17 Indian Butter Chickpeas 273
+    -   0% - Grill Pan & Grill 274
+        -  [ ] - 01/12 Shawarma-Spiced Gilled Chicken Thighs with
+               Tahini 277
+        -  [ ] - 02/12 Chicken-Avocado Burgers with Jalapeno Slaw 278
+        -  [ ] - 03/12 Honey Balsamic Grilled Chicken and Vegetables
+               281
+        -  [ ] - 04/12 Turkey Kofta Kebab Lettuce Wraps 282
+        -  [ ] - 05/12 Grilled Lamb Chops with Mint Chimichurri 285
+        -  [ ] - 06/12 Grilled Surf and Turf with Asparagus and Herb
+               Butter 286
+        -  [ ] - 07/12 Grilled Swordfish with Summer Succotash and
+               Basil Oil 288
+        -  [ ] - 08/12 Grilled Lemon-Chile Shrimp Summer Salad 289
+        -  [ ] - 09/12 Grilled Scallop and Fennel Salad with Lemon
+               Vinaigrette 291
+        -  [ ] - 10/12 Grilled Calamari with Mediterranean Chickpea
+               Salad 292
+        -  [ ] - 11/12 Grilled Peach and Watermelon Burrata Salad 295
+        -  [ ] - 12/12 Grilled Halloumi and Veggies with Mini-Yogurt
+               Sauce 296
