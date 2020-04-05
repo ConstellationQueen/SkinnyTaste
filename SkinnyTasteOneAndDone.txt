@@ -68,7 +68,8 @@ Outline: SkinnyTasteOneAndDone
                        resemble grains of rice (don't overprocess).
                 -  [ ] Spoon the carrots into a kitchen towel and
                        squeeze out any excess liquid.
-                -  [ ] Place each piece of chicken between
+                -  [ ] Place each piece of chicken between two sheets
+                       of plastic wrap.
             -   0% Serving/Presentation Tools
                 -  [ ] Dinner Plates
                 -  [ ] Forks
